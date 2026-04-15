@@ -86,4 +86,4 @@ Creiem que aquesta és la millor opció per a **FoodLogistic** per les raons exp
 
 LINK DE LA PRESENTACIO DE LA TASCA EN PDF:
 
-https://drive.google.com/drive/folders/1Nb9zLL4SLZCDg4akPpS8_0RId9jC8Wv8---
+https://drive.google.com/file/d/189yf2iWiI8jl4bWFg2ubOwmf8e6jllje/view?usp=sharing
