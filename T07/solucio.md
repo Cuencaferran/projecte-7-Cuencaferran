@@ -84,4 +84,6 @@ Creiem que aquesta és la millor opció per a **FoodLogistic** per les raons exp
 * **Migració per fases:** Possibilitat de migrar primer direcció, després administració i magatzem, **sense aturar l'operativa de l'empresa**.
 * **Suport 24/7:** Assistència tècnica contínua inclosa en la subscripció.
 
----
+LINK DE LA PRESENTACIO DE LA TASCA EN PDF:
+
+https://drive.google.com/drive/folders/1Nb9zLL4SLZCDg4akPpS8_0RId9jC8Wv8---
