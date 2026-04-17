@@ -23,3 +23,8 @@ Per la creació d'aquesta web, s'han utilitzat les següents tecnologies i eines
 
 👤 ferran cuenca
 
+### LINK AL GITHUB DE LA WEB CORPORATIVA DE FOODLOGISTIC. 
+
+(https://github.com/Cuencaferran/web-corporativa)
+
+
