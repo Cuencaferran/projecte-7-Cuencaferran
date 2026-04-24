@@ -71,3 +71,5 @@ projecte7/
 - [Guia GitHub Classroom](https://github.com/SMX2n/guia-github-classroom)
 
 Bona sort! 🚀
+
+
