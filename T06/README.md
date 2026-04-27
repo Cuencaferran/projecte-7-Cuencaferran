@@ -72,4 +72,4 @@ Al repositori del projecte, dins el fitxer `README.md`, cal incorporar:
 - Document amb les dades de FoodLogistic S.A.  
 
 ## 🌐 Enllaç al projecte desplegat
-👉 *(Afegeix aquí la URL de GitHub Pages)*
+👉 *([https://github.com/Cuencaferran/web-corporativa])*
