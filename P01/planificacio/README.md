@@ -27,8 +27,7 @@ La planificació s'ha dividit en tres setmanes intensives de treball real, estru
 
 El següent diagrama representa visualment la càrrega de treball i les dependències del projecte. S'ha forçat una planificació realista que arriba fins a finals d'abril per garantir la qualitat.
 
-LA FOTO EN PNG DEL DIAGRAMA LA TENIU A DINS DE LA CARPETA P01 COM BE DEMANAVA LA TASCA, ES SITUADA A LA P01-planificacio-diagramaplantuml.png
-
+![diagrama de gant](./diagramaplantuml.png)
 > **Nota:** El codi font de PlantUML utilitzat per generar aquest diagrama es troba al fitxer diagrama-gantt.ium d'aquesta mateixa carpeta.
 
 ---
