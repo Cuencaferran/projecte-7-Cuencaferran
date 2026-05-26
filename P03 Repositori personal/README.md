@@ -40,6 +40,6 @@ Abans de lliurar, verifiqueu:
 - [ ] Heu fet `git add`, `git commit` i `git push` a la branca principal.
 
 ## LINK REPOSITORY PROJECTE
-> **[LINK PROJECTE 6](https://github.com/Cuencaferran/projecte-7-Cuencaferran)**
+> **[LINK PROJECTE 7](https://github.com/Cuencaferran/projecte-7-Cuencaferran)**
 ---
 
